@@ -1,22 +1,16 @@
 ![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 
 <h1 align="center">Hi 👋, I'm TARQ HILMAR SIREGAR</h1>
-<h3 align="center">A passionate Web Developer from Indonesia</h3>
+<h3 align="center">Machine Learning & Cloud Enthusiast | AWS Certified Cloud Practitioner</h3>
 <img align="right" alt="animated coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarqhilmarsiregar&label=Profile%20views&color=0e75b6&style=flat" alt="tarqhilmarsiregar" /> </p>
 
-- 🌱 I’m currently learning **Golang**
-
-- 👨‍💻 All of my projects are available at [https://tarqhilmarsiregar.netlify.app/](https://tarqhilmarsiregar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tarqhilmarsiregar.vercel.app/](https://tarqhilmarsiregar.vercel.app/)
 
 - 📝 I regularly write articles on [https://tarqhilmarsiregar.medium.com/](https://tarqhilmarsiregar.medium.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
-
 - 📫 How to reach me **tarqhilmarsiregar@gmail.com**
-
-- ⚡ Fun fact **I am calm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
