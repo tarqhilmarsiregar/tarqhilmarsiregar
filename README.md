@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarqhilmarsiregar&label=Profile%20views&color=0e75b6&style=flat" alt="tarqhilmarsiregar" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://tarqhilmarsiregar.vercel.app/](https://tarqhilmarsiregar.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://tarqhilmarsiregar.my.id/](https://tarqhilmarsiregar.my.id/)
 
 - 📝 I regularly write articles on [https://tarqhilmarsiregar.medium.com/](https://tarqhilmarsiregar.medium.com/)
 
